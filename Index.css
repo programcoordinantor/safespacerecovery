@@ -239,3 +239,9 @@ main {
   width:975px;
   border-right:1px solid var(--mainGreen)
 }
+
+
+footer div{
+  width:50%;
+  margin:15px auto 0 auto;
+}
